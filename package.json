@@ -1,0 +1,14 @@
+{
+  "name": "searchtool",
+  "version": "1.0.0",
+  "description": "A Node.js CLI tool that searches files and directories for a regular expression pattern, inspired by grep.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node grep.mjs"
+  },
+  "keywords": [],
+  "author": "ronaksdev.web.dev@gmail.com",
+  "license": "ISC",
+  "type": "module"
+}
